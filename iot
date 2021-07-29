@@ -180,6 +180,13 @@
     "msg":"HSegunda modificación",
     "Fecha":"22/Julio/21"
     }
+    //Formato JSON MQTT
+    {
+        "\ID"\: "\Oscar Cedillo Alvarado"\, 
+        "\msg"\:"\Hola a todos"\,
+        "\Fecha"\:"\22/Julio/21"\
+    }
+}
 =======
 {"ID:""Alejandro Tovar","mnsg""Hola comunidad UAM","Fecha:""22julio2021"} b6294513e90cd51fd4926903d3b8168f069b8f48
 {"ID:""Ruben Leon","mnsg""Hola comunidad UAM","Fecha:""24julio2021"}
